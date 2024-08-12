@@ -1,6 +1,6 @@
 # Earning-Forcast
 
-This is an Earning Forcast Project from my Master Degree (Master of Management Analytics, Rotman School of Management, University of Toronto), course RSM8224 - Analytic Insights using Accounting and Financial Data. n/
+This is an Earning Forcast Project from my Master Degree (Master of Management Analytics, Rotman School of Management, University of Toronto), course RSM8224 - Analytic Insights using Accounting and Financial Data. 
 
 ## Team Members
 
